@@ -22,9 +22,9 @@ node_modules
 .cache
 *.css
 build
-lib
+#lib
 coverage
-/es/
+#/es/
 package-lock.json
 pnpm-lock.yaml
 yarn.lock
